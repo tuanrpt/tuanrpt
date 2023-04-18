@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tuan Nguyen
 ===================================================================================================================================
 
-I am a Ph.D. student at Monash University with a focus on deep learning, transfer learning, learning with limited labels, and optimal transport. I am also interested in other research topics such as deep generative models, kernel methods, graphical models, multi-objective optimization and Bayesian inference.
+I am a Ph.D. student at Monash University with a focus on deep learning and computer vision.
 
 * 🌍  I'm based in Melbourne city
 * 🖥️  See my portfolio at [tuanrpt](http://tuanrpt.github.io/)
-* 🚀  I'm currently working on [Monash University](http://www.monash.edu/)
+* 🚀  I'm also working at [Monash University](http://www.monash.edu/) as a Teaching Associate.
 * 🧠  I'm learning domain adaptation, transfer learning, learning with limited labels, and optimal transport
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  “It Always Seems Impossible Until It Is Done!” (This is my secret inspirational quote from Nelson Mandela)
