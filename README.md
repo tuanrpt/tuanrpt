@@ -5,7 +5,7 @@ I am a Ph.D. student at Monash University with a focus on deep learning and comp
 
 * 🌍  I'm based in Melbourne city
 * 🖥️  See my portfolio at [tuanrpt](http://tuanrpt.github.io/)
-* 🚀  I'm also working at [Monash University](http://www.monash.edu/) as a Teaching Associate.
+* 🚀  I'm also working at [Monash University](http://www.monash.edu/) as a Teaching Associate
 * 🧠  I'm learning domain adaptation, transfer learning, learning with limited labels, and optimal transport
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  “It Always Seems Impossible Until It Is Done!” (This is my secret inspirational quote from Nelson Mandela)
