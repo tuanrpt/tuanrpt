@@ -11,8 +11,7 @@ I am a Ph.D. student at Monash University with a focus on deep learning and comp
 * ⚡  “It Always Seems Impossible Until It Is Done!” (This is my secret inspirational quote from Nelson Mandela)
 
 <a href="https://www.github.com/tuanrpt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tuanrpt?style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>. 
-<!-- logo=github& -->
+src="https://img.shields.io/github/followers/tuanrpt?style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><!-- logo=github& -->
 <a href="https://www.github.com/tuanrpt" target="_blank" rel="noreferrer"><img
 src="https://komarev.com/ghpvc/?username=tuanrpt&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
