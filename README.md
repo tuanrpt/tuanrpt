@@ -45,7 +45,7 @@ src="https://komarev.com/ghpvc/?username=tuanrpt&style=for-the-badge&color=0891b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tuanrpt"><img src="https://github-readme-stats.vercel.app/api?username=tuanrpt&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tuanrpt's GitHub stats" /></a>
+<a href="http://www.github.com/tuanrpt"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanrpt&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tuanrpt's GitHub stats" /></a>
 
 <a href="http://www.github.com/tuanrpt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanrpt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
