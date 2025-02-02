@@ -1,14 +1,14 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/> I'm Tuan!
 ===================================================================================================================================
 
-I am a Ph.D. student at Monash University with a focus on deep learning and computer vision.
+I am an AI researcher at Qatar Computing Research Institute with a focus on cutting-edge topics in artificial intelligence.
 
-* 🌍  I'm based in Melbourne city
-* 🖥️  See my portfolio at [tuanrpt](http://tuanrpt.github.io/)
-* 🧠  I'm studying domain adaptation, transfer learning, learning with limited labels, and optimal transport
-* 🚀  I'm also working at [Monash University](http://www.monash.edu/) as a Teaching Associate
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  “It Always Seems Impossible Until It Is Done!” (This is my secret inspirational quote from Nelson Mandela)
+* 🌍  Based in Doha, Qatar
+* 🖥️  Check out my portfolio: [tuanrpt](http://tuanrpt.github.io/)
+* 🧠  My research areas include deepfake detection, multi-modal learning, generative AI, LLM safety, domain adaptation, and transfer learning.
+* 🚀  I also serve as a Teaching Associate at [Monash University](http://www.monash.edu/).
+* 🤝  Always open to collaborating on exciting and impactful projects.
+* ⚡  “It Always Seems Impossible Until It Is Done.” — Nelson Mandela
 
 <a href="https://www.github.com/tuanrpt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tuanrpt?style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><!-- logo=github& -->
