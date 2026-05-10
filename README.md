@@ -100,24 +100,21 @@ src="https://komarev.com/ghpvc/?username=tuanrpt&style=for-the-badge&color=0891b
 
 ### Socials
 
-
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.github.com/tuanrpt" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+      <a href="https://github.com/tuanrpt" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
       </a>
     </td>
-
     <td align="center">
-      <a href="https://www.linkedin.com/in/tuanrpt" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+      <a href="https://linkedin.com/in/tuanrpt" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
       </a>
     </td>
-
     <td align="center">
-      <a href="https://www.twitter.com/tuanrpt" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+      <a href="https://twitter.com/tuanrpt" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"/>
       </a>
     </td>
   </tr>
